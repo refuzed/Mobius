@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobius", "Mobius\Mobius\Mobius.csproj", "{FAE08325-DA83-47B3-A201-1A1D57CEC5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobiusContent", "Mobius\MobiusContent\MobiusContent.contentproj", "{36E7575B-938A-4D06-A3FC-655767BF8750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE08325-DA83-47B3-A201-1A1D57CEC5A5}.Debug|x86.ActiveCfg = Debug|x86
+		{FAE08325-DA83-47B3-A201-1A1D57CEC5A5}.Debug|x86.Build.0 = Debug|x86
+		{FAE08325-DA83-47B3-A201-1A1D57CEC5A5}.Release|x86.ActiveCfg = Release|x86
+		{FAE08325-DA83-47B3-A201-1A1D57CEC5A5}.Release|x86.Build.0 = Release|x86
+		{36E7575B-938A-4D06-A3FC-655767BF8750}.Debug|x86.ActiveCfg = Debug|x86
+		{36E7575B-938A-4D06-A3FC-655767BF8750}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
