@@ -12,7 +12,7 @@ namespace Möbius
         private Texture2D background;
         private const int MaxX = 600;
         private const int MaxY = 600;
-        private const int MoveSpeed = 4;
+        private const int MoveSpeed = 6;
 
         private int posX;
         private int posY;
@@ -29,6 +29,7 @@ namespace Möbius
                 };
 
             Content.RootDirectory = "Content";
+            IsFixedTimeStep = true;
         }
 
         protected override void Initialize()
